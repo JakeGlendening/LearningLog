@@ -1,0 +1,22 @@
+
+# Python virtual environments
+django_venv/
+venv/
+.venv/
+
+# Python temporary files
+__pycache__/
+*.pyc
+
+# Local database
+db.sqlite3
+
+# Django static files generated during deployment
+staticfiles/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# VS Code settings
+.vscode/
